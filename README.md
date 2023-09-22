@@ -1,5 +1,5 @@
 movies
 Esteban Leonel Anchaba
-Jorge Huanca
-Sergio Maya
+Jorge Huanca 
+Sergio Maya 
 Valeria Castillo
